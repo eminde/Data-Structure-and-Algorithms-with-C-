@@ -34,6 +34,8 @@ public :
 	Node * iterate(Node *, int);
 	int  &   operator[] (int);
 	Node *  search(int );
+	//add insert to end
+	
 };
 
 
